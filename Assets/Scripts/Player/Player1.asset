@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 002251319cb6a8c41a1b25a0d67e591e, type: 3}
+  m_Name: Player1
+  m_EditorClassIdentifier: 
+  _king: {fileID: 36194834040452204, guid: 0b4278ab5b04bbe4eb8b78f48685d44b, type: 3}
+  _deck:
+  - {fileID: 464713629460286040, guid: 17ab0774ea477aa4d8d7bdd16da9430f, type: 3}
+  - {fileID: 3473990841098522780, guid: 738f2b34a9c4e5b40b0dee140cb154ff, type: 3}
+  - {fileID: 156060585461851382, guid: 3e5b1b6dc94ab824eb81f41b1f3830d1, type: 3}
+  - {fileID: 7101973522980630872, guid: d7821e4231f2cde468f4afeeb0bf9028, type: 3}
+  playerNumber: 1

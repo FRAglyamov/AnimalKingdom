@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb5c99e2faf5674b9b300ec47babafc, type: 3}
+  m_Name: Rabbit King
+  m_EditorClassIdentifier: 
+  maxHP: 20
+  firstSkill: {fileID: 11400000, guid: 74eff2eb58e6c9542a1251eb5b3a0f9b, type: 2}
+  secondSkill: {fileID: 11400000, guid: d343736ee8641c3428eb5972f9abaf75, type: 2}

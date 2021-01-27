@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 307ed14e6fff6554fa7dd4264e9647c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animalType: {instanceID: 0}
+  - canvas: {instanceID: 0}
+  - smokePuffEffect: {fileID: 2140802572033476789, guid: 8d3b6735d6eb70a419f28956e2a33b1d,
+      type: 3}
+  - getDamageEffect: {fileID: 1316370172567574802, guid: ed3891cc023d2a24eb7c5d6186caa2b1,
+      type: 3}
+  - healEffect: {fileID: 1553150949456139840, guid: eeb2fa5a18b5e4e4e8b26e50ac3978b0,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
